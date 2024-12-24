@@ -3,6 +3,7 @@
 ![Nagios Logo](https://github.com/hrishi-d-d/test/blob/main/download%20(9).png)
 
 This project involves setting up **Nagios-Server infrastructure monitoring**, using a **Debian machine** as the server and a **Windows machine** as the client with the **Nagios Cross-Platform Agent (NCPA)**.
+Here I have added the screenshots regarding the project.
 
 ## Overview
 Nagios is a powerful monitoring system that allows you to track the performance and availability of IT infrastructure. In this project, we:
